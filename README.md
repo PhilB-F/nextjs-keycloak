@@ -2,7 +2,7 @@
 
 Next.js Keycloak Demo
 
-## Start Next.js in VSCode Powershell Integrated Terminal
+## Run Next.js (dev mode) in VSCode Powershell Integrated Terminal
 
 open a new terminal
 
@@ -19,7 +19,7 @@ npm run dev
  - username=Testu
  - password=password
 
-# Run Keycloak in VSCode Powershell Integrated Terminal
+## Run Keycloak (dev mode) in VSCode Powershell Integrated Terminal
 
 open a new terminal
 
