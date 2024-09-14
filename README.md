@@ -34,4 +34,13 @@ open a new terminal
  - username = keycloak-admin 
  - password = keycl0@k
 
+## Paypal
+
+add to local .env (.env.local)
+
+```
+PAYPAL_CLIENT_SECRET=
+PAYPAL_CLIENT_ID=
+```
+
 
